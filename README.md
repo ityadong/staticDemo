@@ -18,7 +18,7 @@ https://github.com/ityadong/VueAnchor.git
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+<a>serve with hot reload at localhost:8080</a>
 npm run dev
 
 # build for production with minification
