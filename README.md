@@ -14,18 +14,5 @@ https://github.com/ityadong/VueAnchor.git
 </code>
 </pre>
 
-``` bash
-# install dependencies
-npm install
-
-<a>serve with hot reload at localhost:8080</a>
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
 
