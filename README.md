@@ -8,7 +8,7 @@
 <pre>
 <code>
 <h4>源码 地址</h4>
-<a>https://github.com/ityadong/VueAnchor.git</a>
+https://github.com/ityadong/VueAnchor.git
 <h4>展示地址</h4>
 <a>https://ityadong.github.io/staticDemo/VueAnchor/index.html#/</a>
 </code>
